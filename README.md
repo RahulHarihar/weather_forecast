@@ -1,0 +1,1 @@
+## developed a weather forecast web app, integrated openweathermap API which seamlessly fetches the data
